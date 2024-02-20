@@ -1,0 +1,19 @@
+{
+  "keywordFileContentHash": "C1614E2DA6BDB432D9390A6A2C304A36",
+  "keywordClasses": [
+    {
+      "name": "DateUtil",
+      "keywordMethods": [
+        {
+          "name": "getToday",
+          "parameters": []
+        },
+        {
+          "name": "getYesterday",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

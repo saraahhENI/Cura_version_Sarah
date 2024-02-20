@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Non passant</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>44db2772-d2bb-46dd-9d2d-8b4f65385498</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8a4e7d0-e9b7-465f-bfb9-635f4a1c24b8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aae8dcf2-193f-49df-8b8b-167b3a23c374</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0229ecb1-6b06-4fe4-bb4c-4c290ad618c3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>f8a4e7d0-e9b7-465f-bfb9-635f4a1c24b8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'UoudlB093wI='</defaultValue>
+      <description></description>
+      <id>aae8dcf2-193f-49df-8b8b-167b3a23c374</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Login failed! Please ensure the username and password are valid.'</defaultValue>
+      <description></description>
+      <id>0229ecb1-6b06-4fe4-bb4c-4c290ad618c3</id>
+      <masked>false</masked>
+      <name>error_message</name>
+   </variable>
+</TestCaseEntity>

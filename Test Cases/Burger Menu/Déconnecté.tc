@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Déconnecté</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8b273d38-3ac1-43ca-b8ae-c28395e2725e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da04f259-ff10-4b82-9c9d-b13621f57d26</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>da04f259-ff10-4b82-9c9d-b13621f57d26</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variable>
+</TestCaseEntity>

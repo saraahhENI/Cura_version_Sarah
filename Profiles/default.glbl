@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/profile.php#login'</initValue>
+      <name>Login_URI</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/#appointment'</initValue>
+      <name>Appointment_URI</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/appointment.php#summary'</initValue>
+      <name>Summary_URI</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

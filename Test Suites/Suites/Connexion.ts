@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Connexion</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d61de279-9c63-45b8-90ba-09ef4e785c6c</testSuiteGuid>
+   <testCaseLink>
+      <guid>e83673e4-0cf6-4cff-8e93-a4d812bf0957</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Connexion/Cas passant</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea67023f-be4b-4d64-bc29-71310f651b22</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b6ae9bfe-c9b5-4661-9085-70f6a8f93180</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76e810c2-92eb-4418-b66a-cc27bbb84ade</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Connexion/Non passant</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>4ccacdb7-a59d-4ee5-b7ce-facc0fabe79d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Connexion non passante</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>4ccacdb7-a59d-4ee5-b7ce-facc0fabe79d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>f8a4e7d0-e9b7-465f-bfb9-635f4a1c24b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>4ccacdb7-a59d-4ee5-b7ce-facc0fabe79d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>aae8dcf2-193f-49df-8b8b-167b3a23c374</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0229ecb1-6b06-4fe4-bb4c-4c290ad618c3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e74309d7-bfe7-4f8c-9692-d1da5b9ff63d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Connexion/Présence des éléments de connexion</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

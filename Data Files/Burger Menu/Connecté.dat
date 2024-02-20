@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Connecté</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0227ad38-e231-4ccd-9717-4739c7e55f5e</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>%2F%23appointment</data>
+   <data>%2Fhistory.php%23history</data>
+   <data>%2Fprofile.php%23profile</data>
+   <data>null</data>
+   <data>%2Fappointment.php%23summary</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>page</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
